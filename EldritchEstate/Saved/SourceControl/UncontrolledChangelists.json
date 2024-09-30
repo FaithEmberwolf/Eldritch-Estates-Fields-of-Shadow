@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/darkn/Desktop/Eldritch-Estates-Fields-of-Shadow/EldritchEstate/Content/Virginia_Content/Inventory/InetorySysterm.uasset",
+				"C:/Users/darkn/Desktop/Eldritch-Estates-Fields-of-Shadow/EldritchEstate/Content/Virginia_Content/Inventory/FslotStruct.uasset",
+				"C:/Users/darkn/Desktop/Eldritch-Estates-Fields-of-Shadow/EldritchEstate/Content/Virginia_Content/GM_DayNight.uasset",
+				"C:/Users/darkn/Desktop/Eldritch-Estates-Fields-of-Shadow/EldritchEstate/Content/Virginia_Content/GM_WorldClock.uasset",
 				"D:/Eldritch-Estates-Fields-of-Shadow/EldritchEstate/Content/Johns_Content/Maps/Map_John_Testing_Environment.umap",
 				"D:/Eldritch-Estates-Fields-of-Shadow/EldritchEstate/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/EY/87SHEJN5UBEAN2K5OV1G6R.uasset",
 				"D:/Eldritch-Estates-Fields-of-Shadow/EldritchEstate/Content/Johns_Content/Maps/Map_John_Testing_Environment_BuiltData.uasset",
@@ -27,8 +31,6 @@
 				"D:/Eldritch-Estates-Fields-of-Shadow/EldritchEstate/Content/Johns_Content/Structs/S_PlantType.uasset",
 				"D:/Eldritch-Estates-Fields-of-Shadow/EldritchEstate/Content/Johns_Content/Blueprints/BP_Testing.uasset",
 				"C:/Users/darkn/Desktop/Eldritch-Estates-Fields-of-Shadow/EldritchEstate/Content/Virginia_Content/Inventory/In.uasset",
-				"C:/Users/darkn/Desktop/Eldritch-Estates-Fields-of-Shadow/EldritchEstate/Content/Virginia_Content/Inventory/InetorySysterm.uasset",
-				"C:/Users/darkn/Desktop/Eldritch-Estates-Fields-of-Shadow/EldritchEstate/Content/Virginia_Content/Inventory/FslotStruct.uasset",
 				"D:/Eldritch-Estates-Fields-of-Shadow/EldritchEstate/Content/Johns_Content/Variables/EN_Plant_Types.uasset",
 				"D:/Eldritch-Estates-Fields-of-Shadow/EldritchEstate/Content/Johns_Content/Variables/Enums/EN_Plot_WetDry.uasset",
 				"C:/Users/Roxee.ROXEES_PC/Documents/Unreal Projects/EldritchEstate/Content/StarterContent/Architecture/Floor_400x400.uasset"
