@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"C:/Users/Roxee/Documents/Eldritch-Estates-Fields-of-Shadow/EldritchEstate/Content/Maps/M_ExteriorMap.umap",
 				"C:/Users/Roxee/Documents/Eldritch-Estates-Fields-of-Shadow/EldritchEstate/Content/Roxee_Content/RoxeeUIAssets/Alexis/MC_Character_Sprite_-_asleep.uasset",
 				"C:/Users/Roxee/Documents/Eldritch-Estates-Fields-of-Shadow/EldritchEstate/Content/Roxee_Content/RoxeeUIAssets/Alexis/MC_Character_Sprite_-_happy.uasset",
@@ -45,6 +46,9 @@
 				"C:/Users/Roxee/Documents/Eldritch-Estates-Fields-of-Shadow/EldritchEstate/Content/Roxee_Content/RoxeeUIAssets/CharacterCutsceenAsets/InteractionWidgets/Tutorial/WBP_Tutorial5.uasset",
 				"C:/Users/Roxee/Documents/Eldritch-Estates-Fields-of-Shadow/EldritchEstate/Content/Maps/M_InteriorMap.umap",
 				"C:/Users/Roxee/Documents/Eldritch-Estates-Fields-of-Shadow/EldritchEstate/Content/Roxee_Content/RoxeeUIAssets/CharacterCutsceenAsets/InteractionWidgets/BP_EnterEstate.uasset"
+=======
+				"C:/Users/darkn/Desktop/Eldritch-Estates-Fields-of-Shadow/EldritchEstate/Content/Virginia_Content/Clock/GM_WorldClock.uasset"
+>>>>>>> origin/main
 			]
 		}
 	]
