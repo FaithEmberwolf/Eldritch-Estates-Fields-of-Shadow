@@ -5,50 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-<<<<<<< HEAD
-				"C:/Users/Roxee/Documents/Eldritch-Estates-Fields-of-Shadow/EldritchEstate/Content/Maps/M_ExteriorMap.umap",
-				"C:/Users/Roxee/Documents/Eldritch-Estates-Fields-of-Shadow/EldritchEstate/Content/Roxee_Content/RoxeeUIAssets/Alexis/MC_Character_Sprite_-_asleep.uasset",
-				"C:/Users/Roxee/Documents/Eldritch-Estates-Fields-of-Shadow/EldritchEstate/Content/Roxee_Content/RoxeeUIAssets/Alexis/MC_Character_Sprite_-_happy.uasset",
-				"C:/Users/Roxee/Documents/Eldritch-Estates-Fields-of-Shadow/EldritchEstate/Content/Roxee_Content/RoxeeUIAssets/Alexis/MC_Character_Sprite_-_mad.uasset",
-				"C:/Users/Roxee/Documents/Eldritch-Estates-Fields-of-Shadow/EldritchEstate/Content/Roxee_Content/RoxeeUIAssets/Alexis/MC_Character_Sprite_-_neutral.uasset",
-				"C:/Users/Roxee/Documents/Eldritch-Estates-Fields-of-Shadow/EldritchEstate/Content/Roxee_Content/RoxeeUIAssets/Alexis/MC_Character_Sprite_-_sleepy.uasset",
-				"C:/Users/Roxee/Documents/Eldritch-Estates-Fields-of-Shadow/EldritchEstate/Content/Roxee_Content/RoxeeUIAssets/Alexis/MC_Character_Sprite_-_worried.uasset",
-				"C:/Users/Roxee/Documents/Eldritch-Estates-Fields-of-Shadow/EldritchEstate/Content/Roxee_Content/RoxeeUIAssets/CharacterCutsceenAsets/InteractionWidgets/GameStartConvo/WBP_StartofGame5.uasset",
-				"C:/Users/Roxee/Documents/Eldritch-Estates-Fields-of-Shadow/EldritchEstate/Content/Roxee_Content/RoxeeUIAssets/CharacterCutsceenAsets/InteractionWidgets/GameStartConvo/WBP_StartofGame9.uasset",
-				"C:/Users/Roxee/Documents/Eldritch-Estates-Fields-of-Shadow/EldritchEstate/Content/Roxee_Content/RoxeeUIAssets/CharacterCutsceenAsets/InteractionWidgets/GameStartConvo/WBP_StartofGame8.uasset",
-				"C:/Users/Roxee/Documents/Eldritch-Estates-Fields-of-Shadow/EldritchEstate/Content/Roxee_Content/RoxeeUIAssets/CharacterCutsceenAsets/InteractionWidgets/GameStartConvo/WBP_StartofGame3.uasset",
-				"C:/Users/Roxee/Documents/Eldritch-Estates-Fields-of-Shadow/EldritchEstate/Content/Roxee_Content/RoxeeUIAssets/CharacterCutsceenAsets/InteractionWidgets/GameStartConvo/WBP_StartofGame10.uasset",
-				"C:/Users/Roxee/Documents/Eldritch-Estates-Fields-of-Shadow/EldritchEstate/Content/Roxee_Content/RoxeeUIAssets/CharacterCutsceenAsets/InteractionWidgets/GameStartConvo/WBP_StartofGame7.uasset",
-				"C:/Users/Roxee/Documents/Eldritch-Estates-Fields-of-Shadow/EldritchEstate/Content/Roxee_Content/RoxeeUIAssets/CharacterCutsceenAsets/InteractionWidgets/GameStartConvo/WBP_StartofGame6.uasset",
-				"C:/Users/Roxee/Documents/Eldritch-Estates-Fields-of-Shadow/EldritchEstate/Content/Roxee_Content/RoxeeUIAssets/CharacterCutsceenAsets/InteractionWidgets/GameStartConvo/WBP_StartofGame2.uasset",
-				"C:/Users/Roxee/Documents/Eldritch-Estates-Fields-of-Shadow/EldritchEstate/Content/Roxee_Content/Alexis/MC_Character_Sprite_-_asleep.uasset",
-				"C:/Users/Roxee/Documents/Eldritch-Estates-Fields-of-Shadow/EldritchEstate/Content/Roxee_Content/Alexis/MC_Character_Sprite_-_happy.uasset",
-				"C:/Users/Roxee/Documents/Eldritch-Estates-Fields-of-Shadow/EldritchEstate/Content/Roxee_Content/Alexis/MC_Character_Sprite_-_mad.uasset",
-				"C:/Users/Roxee/Documents/Eldritch-Estates-Fields-of-Shadow/EldritchEstate/Content/Roxee_Content/Alexis/MC_Character_Sprite_-_neutral.uasset",
-				"C:/Users/Roxee/Documents/Eldritch-Estates-Fields-of-Shadow/EldritchEstate/Content/Roxee_Content/Alexis/MC_Character_Sprite_-_sleepy.uasset",
-				"C:/Users/Roxee/Documents/Eldritch-Estates-Fields-of-Shadow/EldritchEstate/Content/Roxee_Content/Alexis/MC_Character_Sprite_-_worried.uasset",
-				"C:/Users/Roxee/Documents/Eldritch-Estates-Fields-of-Shadow/EldritchEstate/Content/Roxee_Content/RoxeeUIAssets/CharacterCutsceenAsets/InteractionWidgets/GameStartConvo/WBP_StartofGame4.uasset",
-				"C:/Users/Roxee/Documents/Eldritch-Estates-Fields-of-Shadow/EldritchEstate/Content/Roxee_Content/RoxeeUIAssets/Oka/Oka_Character_Sprite_-_happy.uasset",
-				"C:/Users/Roxee/Documents/Eldritch-Estates-Fields-of-Shadow/EldritchEstate/Content/Roxee_Content/RoxeeUIAssets/Oka/Oka_no_shading.uasset",
-				"C:/Users/Roxee/Documents/Eldritch-Estates-Fields-of-Shadow/EldritchEstate/Content/Roxee_Content/RoxeeUIAssets/Oka/Oka_Character_Sprite_-_worried.uasset",
-				"C:/Users/Roxee/Documents/Eldritch-Estates-Fields-of-Shadow/EldritchEstate/Content/Roxee_Content/RoxeeUIAssets/Oka/Oka_Character_Sprite_-_neutral.uasset",
-				"C:/Users/Roxee/Documents/Eldritch-Estates-Fields-of-Shadow/EldritchEstate/Content/Roxee_Content/Oka/Oka_Character_Sprite_-_neutral.uasset",
-				"C:/Users/Roxee/Documents/Eldritch-Estates-Fields-of-Shadow/EldritchEstate/Content/Roxee_Content/Oka/Oka_Character_Sprite_-_worried.uasset",
-				"C:/Users/Roxee/Documents/Eldritch-Estates-Fields-of-Shadow/EldritchEstate/Content/Roxee_Content/Oka/Oka_no_shading.uasset",
-				"C:/Users/Roxee/Documents/Eldritch-Estates-Fields-of-Shadow/EldritchEstate/Content/Roxee_Content/Oka/Oka_Character_Sprite_-_happy.uasset",
-				"C:/Users/Roxee/Documents/Eldritch-Estates-Fields-of-Shadow/EldritchEstate/Content/Roxee_Content/RoxeeUIAssets/CharacterCutsceenAsets/InteractionWidgets/WBP_EnterEstate.uasset",
-				"C:/Users/Roxee/Documents/Eldritch-Estates-Fields-of-Shadow/EldritchEstate/Content/Roxee_Content/RoxeeUIAssets/CharacterCutsceenAsets/CutsceneDataTables/DT_Tutorial.uasset",
-				"C:/Users/Roxee/Documents/Eldritch-Estates-Fields-of-Shadow/EldritchEstate/Content/Roxee_Content/RoxeeUIAssets/CharacterCutsceenAsets/InteractionWidgets/Tutorial/WBP_Tutorial1.uasset",
-				"C:/Users/Roxee/Documents/Eldritch-Estates-Fields-of-Shadow/EldritchEstate/Content/Roxee_Content/RoxeeUIAssets/CharacterCutsceenAsets/InteractionWidgets/Tutorial/WBP_Tutorial2.uasset",
-				"C:/Users/Roxee/Documents/Eldritch-Estates-Fields-of-Shadow/EldritchEstate/Content/Roxee_Content/RoxeeUIAssets/CharacterCutsceenAsets/InteractionWidgets/Tutorial/WBP_Tutorial3.uasset",
-				"C:/Users/Roxee/Documents/Eldritch-Estates-Fields-of-Shadow/EldritchEstate/Content/Roxee_Content/RoxeeUIAssets/CharacterCutsceenAsets/InteractionWidgets/Tutorial/WBP_Tutorial4.uasset",
-				"C:/Users/Roxee/Documents/Eldritch-Estates-Fields-of-Shadow/EldritchEstate/Content/Roxee_Content/RoxeeUIAssets/CharacterCutsceenAsets/InteractionWidgets/Tutorial/WBP_StartofGame5.uasset",
-				"C:/Users/Roxee/Documents/Eldritch-Estates-Fields-of-Shadow/EldritchEstate/Content/Roxee_Content/RoxeeUIAssets/CharacterCutsceenAsets/InteractionWidgets/Tutorial/WBP_Tutorial5.uasset",
-				"C:/Users/Roxee/Documents/Eldritch-Estates-Fields-of-Shadow/EldritchEstate/Content/Maps/M_InteriorMap.umap",
-				"C:/Users/Roxee/Documents/Eldritch-Estates-Fields-of-Shadow/EldritchEstate/Content/Roxee_Content/RoxeeUIAssets/CharacterCutsceenAsets/InteractionWidgets/BP_EnterEstate.uasset"
-=======
-				"C:/Users/darkn/Desktop/Eldritch-Estates-Fields-of-Shadow/EldritchEstate/Content/Virginia_Content/Clock/GM_WorldClock.uasset"
->>>>>>> origin/main
+				"C:/Users/Roxee.ROXEES_PC/Documents/Unreal Projects/Eldritch-Estates-Fields-of-Shadow/EldritchEstate/Content/Content/Splash/Splash.uasset",
+				"C:/Users/Roxee.ROXEES_PC/Documents/Unreal Projects/Eldritch-Estates-Fields-of-Shadow/EldritchEstate/Content/StoryFramwork/Content/Splash/Splash.uasset",
+				"C:/Users/Roxee.ROXEES_PC/Documents/Unreal Projects/Eldritch-Estates-Fields-of-Shadow/EldritchEstate/Content/StoryFramwork/Content/Splash/EdSplash.uasset"
 			]
 		}
 	]
